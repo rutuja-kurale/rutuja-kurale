@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rutuja Kurale</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Android developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/rutu1902" target="blank"><img src="https://img.shields.io/twitter/follow/rutu1902?logo=twitter&style=for-the-badge" alt="rutu1902" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, JavaScript**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://preranakarande13.my.canva.site/rutuja-kurale](https://preranakarande13.my.canva.site/rutuja-kurale)
 
